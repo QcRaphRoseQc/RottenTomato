@@ -1,0 +1,2 @@
+CREATE DATABASE TP_Laravel_Raphael;
+USE TP_Laravel_Raphael;
