@@ -46,7 +46,7 @@
 </p>
 
 Lien Front End  = https://rotten-frontend.herokuapp.com <br>
-Lien Back End = https://vuetp3.herokuapp.com/
+Lien Back End(API) = https://vuetp3.herokuapp.com/
 
 Login Admin = admin/admin1234
 
