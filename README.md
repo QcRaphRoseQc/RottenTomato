@@ -73,9 +73,9 @@ Ensuite entrer les commandes suivantes:
 
 -----------------------------------------------------------------
 
-pour se creer un user avec l'api 
+Pour se créer un user avec l'api 
 
-dans postman : 
+dans postman: 
 
 1) Headers = Accept application/json
 
@@ -98,7 +98,7 @@ role_id 2 = user
 
 Voici les Routes du backend
 
-|ROUTE | ACTION | DESCRIPTION |
+|ROUTE | ACTION | DESCRIPTION |
 |------|--------|-------------|
 | films                    | GET        | Consultation des films (sans critiques et sans acteurs)   |
 | films/actors/{id}        | GET        | Consultation de tous les acteurs d’un certain film        |
@@ -114,7 +114,7 @@ Voici les Routes du backend
 | users/password           | PUT        | Modification du Mot de Passe                              |
 | critics                  | POST       | Ajout d’une critique (seulement si membre connecté)       |
 
-Exemple de requete json avec Postman:
+Exemple de requête json avec Postman:
 
 films POST:
         
