@@ -1,9 +1,54 @@
 # TP3_Web
 
 
+# Images
+
+<p align="center">
+<img src="./img/HomePage.png"
+     alt="HomePage"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/Recherche.png"
+     alt="Recherche"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/Film.png"
+     alt="Film"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/Profil.png"
+     alt="Profil"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/AdminMenu.png"
+     alt="AdminMenu"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/Login.png"
+     alt="Login"
+     style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="./img/Register.png"
+     alt="Register"
+     style="margin-right: 10px;" />
+</p>
+
 Lien Front End  = https://rotten-frontend.herokuapp.com <br>
 Lien Back End = https://vuetp3.herokuapp.com/
 
+Login Admin = admin/admin1234
 
 <h1>Code Source </h1>
 
